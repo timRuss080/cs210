@@ -1,1 +1,5 @@
 # cs210
+
+The purpose of this program is to show a person how their investmens grow over time. It will show how much interest is earned, and how much the balance would be at the end of the year. This is for a course that is designed to teach you the principles of C++ and object-oriented programing. OOP helps to keep the program managable and readable. Without this approach the code would be a complete mess.
+
+In this program, I was proud of my formatting of the tables. Some of it was a bit trial and error, but I think the end result works well. This was also the most challenging part for me. I felt like I spent hours digging through various searches from the web and on Stack Overflow. The part that I think I could improve or fix would be before the user enters their input, the program is supposed to pause when it displays, "Press any key to continue." Instead, the program just carries on. Overall, I think making this has provided an excellent amount of practice using C++, and I think those skill can easily carry over to other projects or for learning other languages.
